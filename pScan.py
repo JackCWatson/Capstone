@@ -50,7 +50,7 @@ for chost in pTest:
     print('{:<14}    {:<5}      {:<4}'.format(chost['host'], chost['port'], chost['status']))
 
 
-print('\nClick the "X" to Continue')
+print('Done')
 
     
     
